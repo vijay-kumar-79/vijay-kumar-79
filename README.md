@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**vijay-kumar-79/vijay-kumar-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Vijay Kumar**, a student at **IIT Guwahati** based in **India**.
 
-Here are some ideas to get you started:
+I love building **any interesting projects** that spark curiosity and challenge my limits.  
+If something catches my attention, I’ll probably start building it right away. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **MERN**, and I’m always experimenting with new ideas and learning something new every day.
+
+One of my favorite projects is **Zcoder** — check it out in my pinned repositories!
+
+I’ve built **25+ public repositories** (and more in progress 👀).
+
+If you want to know more, feel free to explore —  
+**Let’s connect!**  
+*(Links already available on my profile)*
