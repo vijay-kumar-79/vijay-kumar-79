@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I’m **Vijay Kumar**, a student at **IIT Guwahati** based in **India**.
 
